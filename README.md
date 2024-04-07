@@ -22,7 +22,7 @@ To use the to-do list app, simply [click here](#) to visit the deployed website 
 Alternatively, you can clone the repository to your local machine using the following command:
 
 ```
-
+https://github.com/sara-khan26/To-Do-List-app.git
 ```
 
 Once cloned, open the `index.html` file in your web browser to access the to-do list app.
