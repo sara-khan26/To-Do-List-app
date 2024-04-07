@@ -17,7 +17,7 @@ This project is a simple to-do list application built using HTML, CSS, and JavaS
 
 ## Usage
 
-To use the to-do list app, simply [click here](#) to visit the deployed website and start adding tasks to your list.
+To use the to-do list app, simply [click here](https://sara-khan26.github.io/To-Do-List-app/) to visit the deployed website and start adding tasks to your list.
 
 Alternatively, you can clone the repository to your local machine using the following command:
 
